@@ -1,1 +1,1 @@
-Desafio basico introdutorio a orientação a objetos.
+Desafio basico introdutório a orientação a objetos.
